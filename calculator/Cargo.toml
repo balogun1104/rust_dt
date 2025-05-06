@@ -1,0 +1,9 @@
+[package]
+name = "calculator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name"]
+description = "A simple calculator application with basic arithmetic operations"
+
+[dependencies]
+thiserror = "1.0"  # For error handling
